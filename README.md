@@ -72,13 +72,13 @@ The terminal will display progress as it processes each file.
 
 ### Example lab COA file:
 
-![Alt text](screenshots/Screenshot_COA_PDF.png)
+![PDF file certificate](screenshots/Screenshot_COA_PDF.png)
 
 ### Using the script from command prompt:
-![Alt text](screenshots/Screenshot_COA_Read.png)
+![Python reader in action](screenshots/Screenshot_COA_Read.png)
 
 ### Generated CSV Example::
-![Alt text](screenshots/Screenshot_Output_csv.png)
+![Output csv table](screenshots/Screenshot_Output_csv.png)
 
 # Summary
 
