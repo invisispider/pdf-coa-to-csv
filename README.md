@@ -94,6 +94,8 @@ This project demonstrates:
 
 **🏁 If you need a developer who can design and implement Python solutions for analytics, reporting, and data engineering, this is the kind of work I deliver.**
 
+---
+
 ## Contact
 
 Want to collaborate or learn more?
@@ -101,6 +103,8 @@ Want to collaborate or learn more?
 - **GitHub:** [invisispider](https://github.com/invisispider)  
 - **Upwork:** [My Upwork Profile](https://www.upwork.com/freelancers/~01527a09cdcfd75500)  
 - **Website:** [steinunlimited.com](https://steinunlimited.com/)
+
+---
 
 ## 🌐 My GitHub Portfolio
 
